@@ -1,0 +1,11 @@
+.popup{
+	
+	height:100vh;
+	position:fixed;
+	top:0;
+	left:0;
+	background-color:rgba(30,30,30,.8)
+	z-index:9999;
+
+}
+
